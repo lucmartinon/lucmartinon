@@ -13,7 +13,7 @@ nav_order: 2
   * <a href="https://www.lemonde.fr/les-decodeurs/article/2022/05/17/17-000-etablissements-en-moins-pourquoi-plus-d-un-quart-des-ecoles-ont-ferme-en-france-en-quarante-ans_6126542_4355770.html" target="_blank">School in France closings since 1980</a>,
   * <a href="https://www.lemonde.fr/les-decodeurs/article/2022/04/11/sept-cartes-et-graphiques-pour-comprendre-l-abstention-au-premier-tour-de-la-presidentielle-2022_6121706_4355770.html" target="_blank">Election results analysis</a>
   * <a href="https://www.lemonde.fr/signataires/luc-martinon/" target="_blank">More here</a>
-* Participated in setting up <a href="https://aleph.occrp.org/), a cross datasets research software, ingesting different datasets from various sources (scraping, automation, etc." target="_blank">Aleph</a>
+* Participated in setting up <a href="https://aleph.occrp.org/" target="_blank">Aleph</a>, a cross datasets research software, ingesting different datasets from various sources (scraping, automation, etc.)
 * Worked on data investigation as well as on visualisations
 
 ## AppsFlyer
