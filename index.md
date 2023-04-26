@@ -21,4 +21,4 @@ I'm a freelance investigative data-journalist.
 
 # Looking for
 - Investigation projects
-- Freelance jobs or part-time employee jobs for NGOs, preferably in the transparency area.
+- Freelance jobs or part-time employee jobs for NGOs, preferably in the transparency area
