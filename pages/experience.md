@@ -6,7 +6,7 @@ nav_order: 2
 # Professional experience
 
 ## _Le Monde_
-#### Investigation data-journalist | 2022 | Paris
+#### Investigative data-journalist | 2022 | Paris
 * Member of the investigation team within "les décodeurs", which focuses on longer investigations and cross border collaborations. I worked on a <a href="https://www.lemonde.fr/polemique-sur-les-cabinets-de-conseil/" target="_blank">series of articles</a> about the hiring of consultancy firms by the government and public bodies.
 * Examples of other data-related subjects covered:
   * <a href="https://www.lemonde.fr/les-decodeurs/article/2022/04/17/en-cartes-comment-a-evolue-l-utilisation-de-pesticides-dans-les-communes-francaises-depuis-2017_6122537_4355770.html" target="_blank">Pesticide use in France</a>,
