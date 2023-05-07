@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 2
 ---
 
-## The forever pollution project
+# The forever pollution project
 
 <a href="https://foreverpollution.eu/" target="_blank">The forever pollution project</a> is an in-depth cross-border investigation made by 13 European media outlets about PFAS, a persistant chemical pollution that is present virtually everywhere in Europe with little to no public attention so far.
 
