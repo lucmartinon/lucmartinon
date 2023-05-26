@@ -25,7 +25,7 @@ nav_order: 1
 
 </style>
 
-<img class="profile_pic" src="assets/images/lucMartinon.jpg">
+<img class="profile_pic" src="assets/images/lucMartinon_small.jpg">
 
 I'm a freelance investigative data-journalist.
 

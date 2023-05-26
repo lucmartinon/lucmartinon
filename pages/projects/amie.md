@@ -7,7 +7,7 @@ nav_order: 4
 # AMIE's intranet
 
 ### AMIE: Accueil des Mineur.e.s Isolé.e.s Étranger.e.s
-AMIE is a french NGO helping young unaccompanied migrants arriving in Lyon. They offer counseling once a week, and guidance in the various procedures that they have to face alone, especially since France is almost always refusing to consider them as minor.
+AMIE is a french NGO helping young unaccompanied migrants arriving in Lyon. They offer counseling once a week, and guidance in the various procedures that they have to face alone, especially since France almost always refuses to consider them as minor.
 
 AMIE exists since 2016 and has helped more than 2500 migrants since. The volunteers - mostly retired women - help young migrants in complex and different procedures (suing the state to have their minority recognized, getting into school, into the healthcare system, etc.). They need to a way to share the status of the different procedures. For long it was a gigantic Excel file that was updated once a week and shared by Dropbox.
 
