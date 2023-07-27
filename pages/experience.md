@@ -23,6 +23,6 @@ nav_order: 2
 * Mentored new support engineers: designing and delivering their training
 
 ## Technical experiences
-* Fyber (3 years): senior support engineer
+* Fyber (3 years): senior support enginee
 * Carrefour (15 months): team lead (4 devs) Java & web dev
 * Horoquartz (12 months): Java & Web dev
