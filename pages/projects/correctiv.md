@@ -4,6 +4,10 @@ title: CORRECTIV.Europe
 parent: Projects
 nav_order: 5
 ---
+
+
+![pdh_logo](/assets/images/correctiv_logo.png)
+
 # CORRECTIV.Europe
 Launched in 2024, [CORRECTIV.Europe](https://correctiv.org/en/europe/) is a network of local journalists acorss Europe. The team investigates a topic at european level, often based on data (public register, FOI documents, etc.). Instead of directly publishing our finding, we present them to the network of local journalists, who then complete the investigation, researching the local consequences and enriching our first findings. 
 
